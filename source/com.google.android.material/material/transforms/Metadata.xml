@@ -340,7 +340,7 @@
         >
         Xamarin.Google.Android.Material.Tabs.TabLayout.Tab
     </attr>    
-    
+    <attr path="//parameter[@type='V']" name="type">android.views.View</attr>
     
     
     <!--
